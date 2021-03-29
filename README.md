@@ -22,3 +22,4 @@ Umarel Varuq | Laki-laki | Malang - Jawa Timur
 Rosa Sam | Perempuan | Nganjuk - Jawa Timur
 
 
+# profil-nauratechc27
